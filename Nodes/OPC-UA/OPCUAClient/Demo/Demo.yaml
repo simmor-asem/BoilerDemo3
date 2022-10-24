@@ -1,0 +1,6 @@
+Name: ns=45;Demo
+Id: ns=45;s=Demo
+Type: FolderType
+DisplayName: {"LocaleId":"","Text":"Demo"}
+Children:
+- File: BoilerDemo/BoilerDemo.yaml
